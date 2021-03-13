@@ -61,8 +61,8 @@ import config from '../../../package.json'
 export default {
   data() {
     return {
-      selfStartValue: localStorage.selfStartValue,
-      selfMountValue: localStorage.selfMountValue,
+      selfStartValue: localStorage.selfStartValue ? localStorage.selfStartValue : 1,
+      selfMountValue: localStorage.selfMountValue  ? localStorage.selfMountValue : 1,
       selfRepairValue: localStorage.selfRepairValue,
       versionStatus:0,
       versionName:'',
