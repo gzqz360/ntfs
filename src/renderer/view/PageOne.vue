@@ -85,6 +85,14 @@ export default {
   },
   mounted(){
     checkNtfs().then(() => {
+      if(localStorage.selfStartValue == undefined) {
+        localStorage.selfStartValue = 1;
+        this.selfStartValue = 1;
+      }
+      if(localStorage.selfMountValue == undefined) {
+        localStorage.selfMountValue = 1;
+        this.selfMountValue = 1;
+      }
       this.getVersion();
       this.getList();
     })
