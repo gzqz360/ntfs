@@ -3,27 +3,27 @@
 > This is a NTFS mount tool based on electronic Vue framework, which helps users mount NTFS disk to solve the problem that NTFS disk can only be read but not written in MAC system,
 >As well as unload NTFS disk, format, check, repair disk and other issues
 ---
-###Environmental dependence：
+##Environmental dependence：
 ```
 node v14.15.4
 ```
-###Front end frame：
+##Front end frame：
 ```
 electron-vue
 ```
-###Install dependencies：
+##Install dependencies：
 ```
 npm install
 ```
-###Running projects：
+##Running projects：
 ```
 npm run dev
 ```
-###Pack：
+##Pack：
 ```
 electron-builder --mac --x64
 ```
-###Project directory：
+##Project directory：
 ```
 ├─ .electron-vue
 
