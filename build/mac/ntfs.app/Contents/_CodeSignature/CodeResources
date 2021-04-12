@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/app.asar</key>
 		<data>
-		SxJWiFB2ySDmKr8KP6gflYTpegk=
+		7LJQHdv/mLesGUX4w7DhxtMoSiA=
 		</data>
 		<key>Resources/electron.asar</key>
 		<data>
@@ -23,7 +23,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OW042Rjyo1CEd+Z1pRhtMjyzB+A=
+			lj3Amm5T6tkY4woN8v8Rp6vGFTo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "4X32JPMGQN"</string>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rQmvjTwHBKLY7IPxqckslSK9L7o=
+			wkSHq0DbAVbSKuFHcsI8TbwSTdQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "4X32JPMGQN"</string>
@@ -59,7 +59,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qA/MsNrEEOqwCyW/m9b13Fs+0Wo=
+			JOq0uVpmiMoUGvZIB8SPfi0zdoU=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.lucas.vue.helper.EH" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "4X32JPMGQN"</string>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0wFry38fOnD0pq0BkdWNNBgJfWg=
+			Ckh45wAjVOiBageQu5xZLkVe33s=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.lucas.vue.helper.NP" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "4X32JPMGQN"</string>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1mI2y/Ckcj0WLDFuJkj5ul/SpNA=
+			R3GgLScRtdFQQKkfJG2YIsBP4RU=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.lucas.vue.helper" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "4X32JPMGQN"</string>
@@ -86,11 +86,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SxJWiFB2ySDmKr8KP6gflYTpegk=
+			7LJQHdv/mLesGUX4w7DhxtMoSiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nlKU/mNXLMCUnEyY3DCwkyWsWtDYMr7o80gpWgbfwSQ=
+			3Y/vxnQkkH/Q2VgvUU0AUW+nd4A+Zxp1PSKbq/acRc0=
 			</data>
 		</dict>
 		<key>Resources/electron.asar</key>
