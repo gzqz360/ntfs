@@ -20,34 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0135d3b2-4874-452e-9c82-35b83361541d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libnode.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libnode.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Electron Framework.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/Squirrel.framework/Versions/A/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper EH.app/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper EH.app/Contents/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper EH.app/Contents/MacOS/ntfs Helper EH" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper EH.app/Contents/MacOS/ntfs Helper EH" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper NP.app/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper NP.app/Contents/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper NP.app/Contents/MacOS/ntfs Helper NP" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper NP.app/Contents/MacOS/ntfs Helper NP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper.app/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper.app/Contents/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper.app/Contents/MacOS/ntfs Helper" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Frameworks/ntfs Helper.app/Contents/MacOS/ntfs Helper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/MacOS/ntfs" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/MacOS/ntfs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Resources/app.asar" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/Resources/app.asar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/build/mac/ntfs.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ntfs-0.0.1-mac.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/ntfs-0.0.1-mac.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ntfs-0.0.1.dmg" beforeDir="false" afterPath="$PROJECT_DIR$/build/ntfs-0.0.1.dmg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ntfs-0.0.1.dmg.blockmap" beforeDir="false" afterPath="$PROJECT_DIR$/build/ntfs-0.0.1.dmg.blockmap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/electron/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/electron/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/electron/renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/electron/renderer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +77,7 @@
       <workItem from="1617777062340" duration="505000" />
       <workItem from="1617846497244" duration="510000" />
       <workItem from="1617867852916" duration="23000" />
-      <workItem from="1618211456948" duration="32000" />
+      <workItem from="1618211456948" duration="278000" />
     </task>
     <servers />
   </component>
